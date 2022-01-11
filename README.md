@@ -1,4 +1,4 @@
-Foi desenvolvido um site de controle financeiro onde é possível registrar saídas,entradas e totalizar o seu somatório. Site onde está aberto para visualização <a target=_blank href="https://dtmoney-gold.vercel.app/">"https://dtmoney-gold.vercel.app/</a>. Não há persistência de dados.
+Foi desenvolvido um site de controle financeiro onde é possível registrar saídas,entradas e totalizar o seu somatório. Site onde está aberto para visualização <a target="_blank" href="https://dtmoney-gold.vercel.app/">DTMoney</a>. Não há persistência de dados.
 
 Nesse módulo foram abordados
 1. Styled Components
